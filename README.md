@@ -1,6 +1,7 @@
 <h1 align="center" >Hi 👋, I'm Daniel, a passionate Frontend developer based in Pretoria, South Africa</h1>
 
 <br />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=danotech1&label=Profile%20views&color=0e75b6&style=flat" alt="danotech1" /> </p>
 
 **A bit about me**
 
